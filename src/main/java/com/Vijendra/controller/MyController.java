@@ -9,7 +9,7 @@ public class MyController {
 	@GetMapping("/message")
 	public String printmsg()
 	{
-		return "WelCome to Rest Api";
+		return "WelCome to Rest Api****************************************************";
 	}
 
 }
